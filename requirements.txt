@@ -4,3 +4,4 @@ plotly
 streamlit
 pandas
 matplotlib
+statsmodels
